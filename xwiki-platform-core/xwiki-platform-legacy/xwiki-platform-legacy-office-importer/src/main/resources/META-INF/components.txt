@@ -1,3 +1,0 @@
-org.xwiki.officeimporter.internal.OfficeImporterVelocityContextInitializer
-org.xwiki.officeimporter.internal.openoffice.OpenOfficeManagerVelocityContextInitializer
-org.xwiki.officeimporter.internal.openoffice.OpenOfficeConfigurationVelocityContextInitializer

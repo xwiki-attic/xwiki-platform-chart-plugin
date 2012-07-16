@@ -1,5 +1,0 @@
-###
-### Generic error message
-###
-#set($messageType = $msg.get("platform.core.errorMessageType"))
-#template("message.vm")
