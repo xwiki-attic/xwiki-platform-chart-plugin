@@ -1,4 +1,0 @@
-org.xwiki.component.internal.ContextComponentManager
-org.xwiki.component.internal.UserComponentManager
-org.xwiki.component.internal.UserComponentManagerFactory
-org.xwiki.component.internal.WikiComponentManager

@@ -1,5 +1,0 @@
-org.xwiki.rendering.wikimacro.internal.CoreWikiMacroBindingInitializer
-org.xwiki.rendering.wikimacro.internal.DefaultWikiMacroFactory
-org.xwiki.rendering.wikimacro.internal.DefaultWikiMacroInitializer
-org.xwiki.rendering.wikimacro.internal.WikiMacroExecutionEventListener
-org.xwiki.rendering.wikimacro.internal.RegisterMacrosOnImportListener
